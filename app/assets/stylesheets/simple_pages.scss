@@ -13,7 +13,7 @@ h1 {
 	margin-top: 8em;
 }
 
-nav ul {
+body nav {
 	padding: 5px 10px 5px;
 	font-family: Futura, Helvetica, Arial, sans-serif;
 	font-size: 1em;
@@ -24,11 +24,6 @@ nav ul {
 	z-index: 1;
 	background-color: black;
 	color: #F8F8FF;
-}
-
-nav ul li {
-	display: inline-block;
-	color: white;
 }
 
 footer {
