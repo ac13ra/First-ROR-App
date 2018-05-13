@@ -3,13 +3,14 @@
 // You can use Sass (SCSS) here: http://sass-lang.com/
 h2 {
 	text-align: center;
+	font-size: 1.5em;
 }
 
 h1 {
 	font-size: 3em;
 	text-align: center;
 	font-family: Futura, Helvetica , Arial, sans-serif;
-	margin-top: 4em;
+	margin-top: 2em;
 }
 
 nav {
@@ -25,6 +26,12 @@ nav {
 	color: white;
 }
 
+nav li {
+	display: inline-block;
+	letter-spacing: 0.1em;
+	color: white;
+}
+
 footer {
   position: absolute;
   right: 0;
@@ -37,4 +44,5 @@ footer {
 
 p {
 	text-align: center;
+	font-size: 1em;
 }
