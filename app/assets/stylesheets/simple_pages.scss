@@ -11,9 +11,10 @@ h1 {
 	text-align: center;
 	font-family: Futura, Helvetica , Arial, sans-serif;
 	margin-top: 8em;
+	padding-top: 2em;
 }
 
-body nav {
+nav {
 	padding: 5px 10px 5px;
 	font-family: Futura, Helvetica, Arial, sans-serif;
 	font-size: 1em;
@@ -23,7 +24,7 @@ body nav {
 	left: 0;
 	z-index: 1;
 	background-color: black;
-	color: #F8F8FF;
+	color: white;
 }
 
 footer {
